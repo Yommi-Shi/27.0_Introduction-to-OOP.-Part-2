@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Hierarchy of geometric shapes/Hierarchy of geometric shapes.vcxproj" />
+</Solution>
